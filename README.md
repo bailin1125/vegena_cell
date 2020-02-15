@@ -1,2 +1,6 @@
 # vegena_cell
 对大数据中结构搜索vegena半径并且通过gnuplot进行后处理
+
+
+输入是数据库中一些数据结构，输出是对于vegena半径的整理
+并且通过gnuplot绘图脚本批量产生绘图pdf
